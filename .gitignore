@@ -1,0 +1,14 @@
+*.local
+.env
+*.env
+.ssh/
+secrets/
+*.7z
+*.pem
+*.key
+.DS_Store
+*.tmp
+*.log
+*.swp
+*.swo
+*~

@@ -1,0 +1,8 @@
+zsh
+fastfetch
+unrar
+syncthing
+gnome-tweaks
+steam
+vlc
+zoxide

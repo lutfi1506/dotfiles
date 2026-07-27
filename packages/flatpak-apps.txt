@@ -1,0 +1,8 @@
+com.getpostman.Postman
+com.visualstudio.code
+io.dbeaver.DBeaverCommunity
+md.obsidian.Obsidian
+net.ankiweb.Anki
+org.gimp.GIMP
+org.gnome.Extensions
+org.localsend.localsend_app
